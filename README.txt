@@ -1,1 +1,1 @@
-Projects I completed with Springboard bootcamp.
+Projects I completed with Springboard Data Science Bootcamp.
